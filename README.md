@@ -11,7 +11,7 @@ A collection of Copilot skills for UX research workflows.
 | `learnings-outline/` | Synthesize participant summaries into themed learnings |
 | `participant-summary/` | Generate per-participant summaries from interviews |
 | `quote-tools/` | Clean, format, and verify quotes from transcripts |
-| `research-readout-deck-outline/` | Transform study summaries into structured slide deck outlines |
+| `research-readout-deck-outline/` | Create source-faithful deck outlines that preserve report wording, evidence, diagrams, and recommendations |
 | `screener-writing/` | Write participant screening questionnaires |
 | `study-planner/` | Research methodology selection and study design |
 | `study-report-writer/` | Synthesize study data into polished reports |
